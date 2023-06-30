@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family:Tahoma, Arial;
+}
+body {
+    font: 'Raleway', 'Sans-Serif';
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    top: 15%;
+    background:LINEAR-GRADIENT(TO RIGHT, #00ff00, #e5ff00);
+} 
+h1 {
+    font: 600 3.5em 'Raleway', 'Sans-Serif';
+    color: rgb(0,0,0,0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    width: 100%;
+}
+h2 {
+    font: 900 1.5em 'Raleway', 'Sans-Serif';
+    color: rgb(0,0,0,0.5);
+    text-align: center;
+    letter-spacing: 0.6em;
+    text-transform: none;
+    
+}
+/**/
